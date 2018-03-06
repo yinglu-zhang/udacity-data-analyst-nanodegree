@@ -1,0 +1,15 @@
+References:
+
+1: P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
+  Modeling wine preferences by data mining from physicochemical properties.
+  In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
+  
+2: http://www.sthda.com/english/wiki/correlation-matrix-a-quick-start-guide-to-analyze-format-and-visualize-a-correlation-matrix-using-r-software#what-is-correlation-matrix
+
+3: http://ggplot2.tidyverse.org/reference/qplot.html
+
+4: http://ggplot2.tidyverse.org/reference/geom_density.html
+
+5: http://www.sthda.com/english/wiki/ggplot2-box-plot-quick-start-guide-r-software-and-data-visualization#change-box-plot-colors-by-groups
+
+6: http://www.sthda.com/english/wiki/ggplot2-axis-ticks-a-guide-to-customize-tick-marks-and-labels
